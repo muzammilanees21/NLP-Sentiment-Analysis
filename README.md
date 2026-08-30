@@ -1,4 +1,4 @@
- NLP & Sentiment Analysis
+# NLP & Sentiment Analysis
 
 ## Overview
 This project builds an end-to-end pipeline that reads unstructured text (movie/product reviews) and classifies it as **Positive** or **Negative** sentiment.
