@@ -1,6 +1,4 @@
-# Project 4: NLP & Sentiment Analysis
-
-DecodeLabs Data Science Industrial Training — Batch 2026
+ NLP & Sentiment Analysis
 
 ## Overview
 This project builds an end-to-end pipeline that reads unstructured text (movie/product reviews) and classifies it as **Positive** or **Negative** sentiment.
